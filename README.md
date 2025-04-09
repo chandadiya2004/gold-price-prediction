@@ -15,18 +15,6 @@ Gold price is influenced by various economic indicators. This project aims to bu
 - Streamlit (for web deployment)
 - Streamlit Cloud (for hosting)
 
----
-
-## 📁 Project Structure
-
-.
-├── st_app.py                      # Streamlit web app
-├── gld_price_data.csv          # Dataset used
-├── gold_price_prediction_model.pkl  # Trained ML model
-├── requirements.txt            # Dependencies for the project
-└── README.md                   # Project documentation (this file)
-
-
 
 ---
 
@@ -50,5 +38,5 @@ Gold price is influenced by various economic indicators. This project aims to bu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/gold-price-prediction.git
+   git clone https://github.com/chandadiya2004/gold-price-prediction.git
    cd gold-price-prediction
